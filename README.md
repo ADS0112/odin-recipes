@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be my first introduction to HTML and setting up a basic webpage with a recipe of my choice. This will help me understand some structrual layouts of HTML and improve my understanding further as a develper.
